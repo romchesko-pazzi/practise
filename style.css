@@ -2,7 +2,7 @@ body {
     font-family: 'Glory', sans-serif;
     font-size: 20px;
     background-color: #e8e8e8;
-    background: url("/img/bg.png") 50% 130px no-repeat ;
+    background:url("img/bg.png") 50% 130px no-repeat ;
 }
 
 .content {
